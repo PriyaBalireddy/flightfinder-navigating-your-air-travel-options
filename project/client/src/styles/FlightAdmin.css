@@ -1,0 +1,88 @@
+.flightAdmin-page {
+  padding-top: 15vh;
+  min-height: 100vh;
+  background-color: #f7f9fb;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+/* Message boxes for approval/rejection */
+.notApproved-box {
+  width: 60%;
+  text-align: center;
+  margin: 30vh auto;
+  background-color: rgba(237, 239, 241, 0.692);
+  padding: 4vh 4vw;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.notApproved-box h3 {
+  color: #e35252;
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+}
+
+.notApproved-box p {
+  color: rgb(82, 102, 120);
+  font-size: 1rem;
+}
+
+/* Cards container */
+.admin-page-cards {
+  display: flex;
+  flex-direction: column;     /* Stack vertically */
+  align-items: center;        /* Center cards */
+  gap: 30px;                  /* Space between cards */
+  width: 100%;
+  margin-bottom: 5vh;
+}
+
+/* Each card style */
+.admin-card {
+  width: 60%;
+  padding: 3vh 2vw;
+  text-align: center;
+  height: 150px;
+  background-color: #ffffff;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  transition: box-shadow 0.3s ease;
+}
+
+.admin-card:hover {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+              rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.admin-card h4 {
+  margin: 0;
+  font-size: 1.3rem;
+  color: #004a8f;
+}
+
+.admin-card p {
+  font-size: 1.2rem;
+  color: #222;
+  margin: 5px 0;
+}
+
+/* Button inside cards */
+.admin-card button {
+  padding: 10px 16px;
+  background-color: #0077b6;
+  color: #fff;
+  border: none;
+  font-weight: bold;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.admin-card button:hover {
+  background-color: #005f94;
+}
