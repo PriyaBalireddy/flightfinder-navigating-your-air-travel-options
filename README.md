@@ -31,19 +31,26 @@ Flight Finder ✈️ is designed to simplify flight bookings by offering real-ti
 1. **Clone the repository**
 
 git clone https://github.com/PriyaBalireddy/flightfinder-navigating-your-air-travel-options
+
 cd SkyDreams---Flight-Finder
+
 Install client dependencies
 
 cd "Source Code/client"
+
 npm install
+
 npm start
+
 In a separate terminal, start the backend
 
 
 cd "Source Code/server"
+
 npm install
+
 npm start
-⚠️ Note: Ensure MongoDB is running locally on default port 27017.
+
 
 ✅ 5. ✈️ Features
 Book one-way & return flights
@@ -57,13 +64,16 @@ Add, edit, delete flights
 Fake payment gateway for testing
 
 ✅ 6. 👨‍💻 Team Details
+
 Team ID: LTVIP2025TMID59691
 Team Size: 4 Members
 
 👩‍💼 Team Leader:
+
 Chadalawada Mahalakshmi
 
 👩‍💻 Team Members:
+
 Balireddy Raghava Priya
 
 Battula Akhila
