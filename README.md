@@ -16,12 +16,14 @@ React.js
 Node.js + Express.js
 MongoDB (local)
 Bootstrap
+
 ✅ 4. Project Setup
 
 🔧 Getting Started
 Clone the repository:
 git clone https://github.com/PriyaBalireddy/flightfinder-navigating-your-air-travel-options
-cd SkyDreams---Flight-Finder
+    
+ cd SkyDreams---Flight-Finder
 
 2.Install client dependencies:
 
