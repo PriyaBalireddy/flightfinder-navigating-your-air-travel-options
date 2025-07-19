@@ -54,13 +54,13 @@ npm start
 
 ##  ✅ 6.👨‍💻Team Details
 
-**Team ID**: LTVIP2025TMID59738  
+**Team ID**: LTVIP2025TMID59691
 **Team Size**: 4  
 
 **Team Leader**:  
-Vellalacheruvu Devi Sahasra
+Chadalawada Mahalakshmi
 
 **Team Members**:  
-1. Tirumalasetti Vineela  
-2. Thippaluri Yaseen Basha  
-3. Thiruvaipati Lakshmi Navaneeth
+1. Balireddy Raghava Priya 
+2. Battula Akhila 
+3. Bandla Nikhitha
