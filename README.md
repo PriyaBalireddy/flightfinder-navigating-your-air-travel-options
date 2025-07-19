@@ -20,7 +20,7 @@ Bootstrap
 
 🔧 Getting Started
 Clone the repository:
-git clone https://github.com/Sahasra75/SkyDreams---Flight-Finder.git
+git clone https://github.com/PriyaBalireddy/flightfinder-navigating-your-air-travel-options
 cd SkyDreams---Flight-Finder
 
 2.Install client dependencies:
