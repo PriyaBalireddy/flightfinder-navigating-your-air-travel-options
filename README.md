@@ -1,9 +1,8 @@
 # flightfinder-navigating-your-air-travel-options
-✅ 1. Project Title & Demo
+✅ 1. Project Title
 
 Flight Finder ✈️
-🎥 Demo Video
-▶️ Click here to watch the demo
+
 
 ✅ 2. Project Description
 
